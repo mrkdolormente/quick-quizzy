@@ -1,3 +1,6 @@
+<script setup lang="ts">
+  import { Modal } from '@core/common-ui';
+</script>
 <template>
-  <NxWelcome title="app" />
+  <Modal />
 </template>
